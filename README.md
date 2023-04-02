@@ -11,4 +11,4 @@ meu primeiro perceptron. Provavelmente haverá muitas evoluções, então fique 
 
 ## Posso esse projeto?
 
-Para isso, leia minha ![licença](LICENCE.md).
+Para isso, leia minha [licença](LICENCE.md).
